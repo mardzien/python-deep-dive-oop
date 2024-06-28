@@ -1,0 +1,4 @@
+Exception ignored in: <function Person.__del__ at 0x7f037bd86ac0>
+Traceback (most recent call last):
+  File "/tmp/ipykernel_8547/3337016714.py", line 3, in __del__
+ValueError: Something went wrong
